@@ -80898,8 +80898,8 @@
 																				"$ref": "AAAAAAFrNmnp2mYxCIE="
 																			},
 																			"font": "Arial;13;0",
-																			"left": 99.578125,
-																			"top": 149,
+																			"left": 115.578125,
+																			"top": 157,
 																			"width": 4.61181640625,
 																			"height": 13,
 																			"text": "."
@@ -80911,8 +80911,8 @@
 																				"$ref": "AAAAAAFrNmnp2mYxCIE="
 																			},
 																			"font": "Arial;13;1",
-																			"left": 69,
-																			"top": 149,
+																			"left": 85,
+																			"top": 157,
 																			"width": 25.578125,
 																			"height": 13,
 																			"text": "loop"
@@ -80945,14 +80945,14 @@
 																							},
 																							"visible": false,
 																							"font": "Arial;13;0",
-																							"left": 84,
-																							"top": 182,
+																							"left": 100,
+																							"top": 190,
 																							"height": 13
 																						}
 																					],
 																					"font": "Arial;13;0",
-																					"left": 64,
-																					"top": 167,
+																					"left": 80,
+																					"top": 175,
 																					"width": 681,
 																					"height": 43,
 																					"guardLabel": {
@@ -80961,15 +80961,15 @@
 																				}
 																			],
 																			"font": "Arial;13;0",
-																			"left": 64,
-																			"top": 167,
+																			"left": 80,
+																			"top": 175,
 																			"width": 681,
 																			"height": 43
 																		}
 																	],
 																	"font": "Arial;13;0",
-																	"left": 64,
-																	"top": 144,
+																	"left": 80,
+																	"top": 152,
 																	"width": 681,
 																	"height": 345,
 																	"nameLabel": {
@@ -81030,6 +81030,35 @@
 																	"typeLabel": {
 																		"$ref": "AAAAAAFrNmrbqWZTHnI="
 																	}
+																},
+																{
+																	"_type": "UMLNoteView",
+																	"_id": "AAAAAAFrQVVi0NGajUI=",
+																	"_parent": {
+																		"$ref": "AAAAAAFrNlAo+mPwzT0="
+																	},
+																	"font": "Arial;13;0",
+																	"left": 832,
+																	"top": 120,
+																	"width": 225,
+																	"height": 73,
+																	"text": "En este primer caso, se activaría el movimiento de Waste a Stock, para rellenar el Stock con las cartas que se encuentren en Waste."
+																},
+																{
+																	"_type": "UMLNoteLinkView",
+																	"_id": "AAAAAAFrQVV9GtGerBI=",
+																	"_parent": {
+																		"$ref": "AAAAAAFrNlAo+mPwzT0="
+																	},
+																	"font": "Arial;13;0",
+																	"head": {
+																		"$ref": "AAAAAAFrNldhvWXXg38="
+																	},
+																	"tail": {
+																		"$ref": "AAAAAAFrQVVi0NGajUI="
+																	},
+																	"lineStyle": 1,
+																	"points": "839:193;712:238"
 																}
 															]
 														},
